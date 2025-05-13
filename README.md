@@ -33,7 +33,9 @@
   <a href="mailto:mmohtasimhossain@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohtasim-hossain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Mohtasim-Hossain"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1Q2Bzaf9AX4CpJPswvPSoS-l5V-FY99Gf/view?usp=share_link"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1Q2Bzaf9AX4CpJPswvPSoS-l5V-FY99Gf/view?usp=share_link" target="_blank" rel="noopener noreferrer">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
 </p>
 
 
